@@ -1,0 +1,2 @@
+# python
+“requests” (http://docs.python-requests.org/en/master/) is a Python library that can be used to fetch a file from the Internet. It does not come with Python, so you will need to install it.  See: http://docs.python-requests.org/en/master/.  To install, usually you can just type:  $pip3 install requests  Here is the installation page for requests: http://docs.python-requests.org/en/master/user/install/
